@@ -1,11 +1,10 @@
 # Hello there, I'm Fabian!
-I am 18 years old and I live in Germany.
+I am 19 years old and I live in Germany.
 
-I'm a self taught programmer and have been doing so since
+I'm a self taught programmer and have been doing this craft since
 my early teen years.
 
-Since recently i've been attending a special school for IT and
-software development to improve my skills further and to get a degree.
+I am working as a Full Stack software developer.
 
 ## Programming languages I like
 (And also some that i just used in the past)
@@ -52,7 +51,7 @@ software development to improve my skills further and to get a degree.
 	</tbody>
 </table>
 
-## Topics i like
+## Topics I like
 - :man_technologist: General Purpose Software development (Preferably with C#)
 - :brain: Machine Learning
 - :computer: Embedded Systems Programming
@@ -60,13 +59,6 @@ software development to improve my skills further and to get a degree.
 - :lock: Cryptography
 
 ## Github :octocat:
-I sadly have joined github very late during my programming journey and 
-as such most of my projects are lost to history.
-
-Furthermore I have been using a Linux operating system (Mint) for a while now,
-so it would be of no use for me to develop more WinForms applications/let my old projects reincarnate.
-(Because that's what i mainly did with C# prior to my operating system switch)
-
-Well anyway, thanks for taking the time to read my readme. :blush:
+Thank you for taking the time to read my readme. :blush:
 
 I hope you're gonna have a very nice day!! :sparkles::sparkles:
