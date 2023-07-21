@@ -2,9 +2,9 @@
 I am 19 years old and I live in Germany.
 
 I'm a self taught programmer and have been doing this craft since
-my early teen years.
+my early teen years. Later I got proper education.
 
-I am working as a Full Stack software developer.
+I am now working as a Full Stack software developer.
 
 ## Programming languages I like
 (And also some that i just used in the past)
