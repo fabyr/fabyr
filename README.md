@@ -68,3 +68,8 @@ I am now working as a Full Stack software developer.
 Thank you for taking the time to read my readme. :blush:
 
 I hope you're gonna have a very nice day!! :sparkles::sparkles:
+
+<hr/>
+
+Funny meme:
+![Funny Meme](/competitionmeme.png)
